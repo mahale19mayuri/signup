@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+#heading{
+    color: white;
+    font-size: 50px;
+    margin-bottom: 40px;
+}
+.container{
+    width: 50vw;
+    height: 30vw;
+    margin: auto;
+    margin-top: 150px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #ffff;
+    background: transparent;
+}
+button{
+    margin-top: 40px;
+    padding: 8px;
+    width: 18%;
+    font-size: 16px;
+}
+p{
+    font-size: 18px;
+    color: red;
+}
+.msg{
+    color: green;
+}
